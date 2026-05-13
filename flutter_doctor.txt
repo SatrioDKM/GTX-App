@@ -1,0 +1,59 @@
+
+┌─────────────────────────────────────────────────────────┐
+│ A new version of Flutter is available!                  │
+│                                                         │
+│ To update to the latest version, run "flutter upgrade". │
+└─────────────────────────────────────────────────────────┘
+[√] Flutter (Channel stable, 3.32.2, on Microsoft Windows [Version 10.0.19045.6466], locale en-ID) [1,247ms]
+    • Flutter version 3.32.2 on channel stable at C:\xampp\htdocs\belajar flutter\flutter
+    • Upstream repository https://github.com/flutter/flutter.git
+    • Framework revision 8defaa71a7 (11 months ago), 2025-06-04 11:02:51 -0700
+    • Engine revision 1091508939
+    • Dart version 3.8.1
+    • DevTools version 2.45.1
+
+[√] Windows Version (10 Pro 64-bit, 22H2, 2009) [3.8s]
+
+[!] Android toolchain - develop for Android devices (Android SDK version 34.0.0) [822ms]
+    • Android SDK at C:\Users\SatrioDKM\AppData\Local\Android\Sdk
+    • Platform android-34, build-tools 34.0.0
+    • ANDROID_HOME = C:\Users\SatrioDKM\AppData\Local\Android\Sdk
+    • ANDROID_SDK_ROOT = C:\Users\SatrioDKM\AppData\Local\Android\Sdk
+    • Java binary at: C:\Program Files\Android\Android Studio\jbr\bin\java
+      This is the JDK bundled with the latest Android Studio installation on this machine.
+      To manually set the JDK path, use: `flutter config --jdk-dir="path/to/jdk"`.
+    • Java version OpenJDK Runtime Environment (build 17.0.6+0-b2043.56-10027231)
+    X Android license status unknown.
+      Run `flutter doctor --android-licenses` to accept the SDK licenses.
+      See https://flutter.dev/to/windows-android-setup for more details.
+
+[√] Chrome - develop for the web [66ms]
+    • Chrome at C:\Program Files\Google\Chrome\Application\chrome.exe
+
+[X] Visual Studio - develop Windows apps [61ms]
+    X Visual Studio not installed; this is necessary to develop Windows apps.
+      Download at https://visualstudio.microsoft.com/downloads/.
+      Please install the "Desktop development with C++" workload, including all of its default components
+
+[√] Android Studio (version 2022.3) [51ms]
+    • Android Studio at C:\Program Files\Android\Android Studio
+    • Flutter plugin can be installed from:
+       https://plugins.jetbrains.com/plugin/9212-flutter
+    • Dart plugin can be installed from:
+       https://plugins.jetbrains.com/plugin/6351-dart
+    • Java version OpenJDK Runtime Environment (build 17.0.6+0-b2043.56-10027231)
+
+[√] VS Code (version unknown) [43ms]
+    • VS Code at C:\Users\SatrioDKM\AppData\Local\Programs\Microsoft VS Code
+    • Flutter extension version 3.134.0
+    X Unable to determine VS Code version.
+
+[√] Connected device (3 available) [2.8s]
+    • Windows (desktop) • windows • windows-x64    • Microsoft Windows [Version 10.0.19045.6466]
+    • Chrome (web)      • chrome  • web-javascript • Google Chrome 147.0.7727.138
+    • Edge (web)        • edge    • web-javascript • Microsoft Edge 147.0.3912.98
+
+[√] Network resources [4.4s]
+    • All expected network resources are available.
+
+! Doctor found issues in 2 categories.
